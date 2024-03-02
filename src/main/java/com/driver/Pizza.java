@@ -16,7 +16,7 @@ public class Pizza {
         Cheesef=true;
         Toppingsf=true;
 
-        if(isVeg){
+        if(this.isVeg){
             price=300;
         }else{
             price=400;
